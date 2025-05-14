@@ -6,13 +6,6 @@
 **School of Computing - Islamabad Campus**  
 **Deadline: Monday, 9th December 2024 (2:25 PM)**  
 
----
-
-## 👥 Group Members
-- **Name 1**: Muhammad Azan Afzal  
-  **Roll Number**: 22I-1741  
-
----
 
 ## 📁 Project Structure
 
